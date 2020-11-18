@@ -26,7 +26,7 @@ Giacomo Mandelli
 - **user_manuals** contains useful informations about the board and the current project
 
 ### How-to install and use
-* see [Instructions](https://github.com/matteodf/ThereBoard/user_manuals/thereboard_docs.pdf)
+* see [Instructions](https://github.com/matteodf/ThereBoard/blob/main/user_manuals/thereboard_docs.pdf)
 
 ## Contact
 #### Developer/Company
