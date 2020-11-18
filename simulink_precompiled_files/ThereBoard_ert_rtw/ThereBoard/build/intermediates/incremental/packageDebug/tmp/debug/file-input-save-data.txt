@@ -1,0 +1,15 @@
+#Internal package file, do not edit.
+#Thu Jan 16 13:09:15 CET 2020
+1.base=C\:\\Users\\matte\\Desktop\\ThereBoardProject\\simulink_precompiled_files\\ThereBoard_ert_rtw\\ThereBoard\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+2.path=lib/armeabi-v7a/libThereBoard.so
+0.baseType=DIRECTORY
+2.base=C\:\\Users\\matte\\Desktop\\ThereBoardProject\\simulink_precompiled_files\\ThereBoard_ert_rtw\\ThereBoard\\build\\intermediates\\transforms\\stripDebugSymbol\\debug\\0
+2.set=NATIVE_RESOURCE
+1.baseType=DIRECTORY
+count=3
+1.set=DEX
+0.path=lib/armeabi-v7a/libc++_shared.so
+0.set=NATIVE_RESOURCE
+0.base=C\:\\Users\\matte\\Desktop\\ThereBoardProject\\simulink_precompiled_files\\ThereBoard_ert_rtw\\ThereBoard\\build\\intermediates\\transforms\\stripDebugSymbol\\debug\\0
+2.baseType=DIRECTORY
+1.path=classes.dex

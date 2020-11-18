@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white">
+    <!-- Auto-generated Widgets BEGIN -->
+
+<ScrollView
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	>
+<LinearLayout
+	android:layout_width="match_parent"
+	android:layout_height="wrap_content"
+	android:orientation="vertical">
+<ToggleButton
+	android:id="@+id/button1"
+	android:checked="false"
+	android:layout_gravity="center"
+	android:layout_height="0dp"
+	android:layout_width="wrap_content"
+	android:layout_weight="1"
+	android:layout_marginTop="8dp"
+	android:textOff="Continuo"
+	android:textOn="Continuo"
+	/>
+<ToggleButton
+	android:id="@+id/button2"
+	android:checked="false"
+	android:layout_gravity="center"
+	android:layout_height="0dp"
+	android:layout_width="wrap_content"
+	android:layout_weight="1"
+	android:layout_marginTop="8dp"
+	android:textOff="Modo"
+	android:textOn="Modo"
+	/>
+<TextView
+	android:id="@+id/textview1"
+	android:layout_marginTop="8dp"
+	android:layout_marginLeft="8dp"
+	android:tag="Note"
+	android:textColor="@android:color/black"
+	android:layout_height="0dp"
+	android:layout_width="match_parent"
+	android:layout_weight="1"
+	/>
+<SeekBar
+	android:id="@+id/slider1"
+	android:layout_height="0dp"
+	android:layout_width="match_parent"
+	android:layout_weight="1"
+	android:layout_marginBottom="8dp"
+	/>
+<ToggleButton
+	android:id="@+id/button3"
+	android:checked="false"
+	android:layout_gravity="center"
+	android:layout_height="0dp"
+	android:layout_width="wrap_content"
+	android:layout_weight="1"
+	android:layout_marginTop="8dp"
+	android:textOff="Strumento"
+	android:textOn="Strumento"
+	/>
+<TextView
+	android:id="@+id/DataDisplayLabel1"
+	android:text="frequenza: "
+	android:textColor="@android:color/black"
+	android:layout_height="wrap_content"
+	android:layout_width="match_parent"
+	android:layout_margin="8dp"
+	/>
+<TextView
+	android:id="@+id/DataDisplay1"
+	android:layout_height="wrap_content"
+	android:layout_width="match_parent"
+	android:gravity="center"
+	android:textColor="@android:color/black"
+	/>
+<TextView
+	android:id="@+id/DataDisplayLabel2"
+	android:text="tempo: "
+	android:textColor="@android:color/black"
+	android:layout_height="wrap_content"
+	android:layout_width="match_parent"
+	android:layout_margin="8dp"
+	/>
+<TextView
+	android:id="@+id/DataDisplay2"
+	android:layout_height="wrap_content"
+	android:layout_width="match_parent"
+	android:gravity="center"
+	android:textColor="@android:color/black"
+	/>
+<TextView
+	android:id="@+id/DataDisplayLabel3"
+	android:text="valore bluetooth: "
+	android:textColor="@android:color/black"
+	android:layout_height="wrap_content"
+	android:layout_width="match_parent"
+	android:layout_margin="8dp"
+	/>
+<TextView
+	android:id="@+id/DataDisplay3"
+	android:layout_height="wrap_content"
+	android:layout_width="match_parent"
+	android:gravity="center"
+	android:textColor="@android:color/black"
+	/>
+</LinearLayout>
+</ScrollView>
+<!-- Auto-generated Widgets END -->
+
+
+
+</FrameLayout>

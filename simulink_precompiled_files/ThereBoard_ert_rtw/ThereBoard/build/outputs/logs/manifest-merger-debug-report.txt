@@ -1,0 +1,171 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\matte\Desktop\ThereBoardProject\simulink_precompiled_files\ThereBoard_ert_rtw\ThereBoard\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\matte\Desktop\ThereBoardProject\simulink_precompiled_files\ThereBoard_ert_rtw\ThereBoard\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\matte\Desktop\ThereBoardProject\simulink_precompiled_files\ThereBoard_ert_rtw\ThereBoard\src\main\AndroidManifest.xml:2:1-23:12
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\matte\.gradle\caches\transforms-2\files-2.1\0e25de7ddc61fc2001dd2b265154f5dd\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\matte\.gradle\caches\transforms-2\files-2.1\5264e5448922b7d6acdfdd1db96e448a\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\matte\.gradle\caches\transforms-2\files-2.1\83bb775642e85ded920d45c98c4ba47a\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\matte\.gradle\caches\transforms-2\files-2.1\41c6245d9480f7755bfecedd6de79fd7\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\matte\.gradle\caches\transforms-2\files-2.1\0d4ab687470e9be730ee6f9186b049ce\AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\matte\.gradle\caches\transforms-2\files-2.1\278bb55902c0cb301729800709bccdd6\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\matte\.gradle\caches\transforms-2\files-2.1\f4e4ddf5d7fad2556068335dd9d034f3\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\matte\.gradle\caches\transforms-2\files-2.1\7638b7f6a5f5f32c18213ac6b7e1e1d8\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\matte\.gradle\caches\transforms-2\files-2.1\04193e4adbd6ab2b25601e480e412512\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\matte\.gradle\caches\transforms-2\files-2.1\5db7b9078964e2bf4080b383d587ddf0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\matte\.gradle\caches\transforms-2\files-2.1\7da184a3de07e598f9ba2487bf683ea2\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\matte\.gradle\caches\transforms-2\files-2.1\4e70e2bc268155a48da1800749e38468\AndroidManifest.xml:17:1-31:12
+INJECTED from C:\Users\matte\Desktop\ThereBoardProject\simulink_precompiled_files\ThereBoard_ert_rtw\ThereBoard\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\matte\Desktop\ThereBoardProject\simulink_precompiled_files\ThereBoard_ert_rtw\ThereBoard\src\main\AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from C:\Users\matte\Desktop\ThereBoardProject\simulink_precompiled_files\ThereBoard_ert_rtw\ThereBoard\src\main\AndroidManifest.xml:5:11-43
+	android:versionName
+		ADDED from C:\Users\matte\Desktop\ThereBoardProject\simulink_precompiled_files\ThereBoard_ert_rtw\ThereBoard\src\main\AndroidManifest.xml:4:11-36
+		INJECTED from C:\Users\matte\Desktop\ThereBoardProject\simulink_precompiled_files\ThereBoard_ert_rtw\ThereBoard\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\matte\Desktop\ThereBoardProject\simulink_precompiled_files\ThereBoard_ert_rtw\ThereBoard\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\matte\Desktop\ThereBoardProject\simulink_precompiled_files\ThereBoard_ert_rtw\ThereBoard\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\matte\Desktop\ThereBoardProject\simulink_precompiled_files\ThereBoard_ert_rtw\ThereBoard\src\main\AndroidManifest.xml:3:11-34
+		INJECTED from C:\Users\matte\Desktop\ThereBoardProject\simulink_precompiled_files\ThereBoard_ert_rtw\ThereBoard\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\matte\Desktop\ThereBoardProject\simulink_precompiled_files\ThereBoard_ert_rtw\ThereBoard\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\matte\Desktop\ThereBoardProject\simulink_precompiled_files\ThereBoard_ert_rtw\ThereBoard\src\main\AndroidManifest.xml:6:5-15:19
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\matte\.gradle\caches\transforms-2\files-2.1\0e25de7ddc61fc2001dd2b265154f5dd\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\matte\.gradle\caches\transforms-2\files-2.1\0e25de7ddc61fc2001dd2b265154f5dd\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\matte\.gradle\caches\transforms-2\files-2.1\5264e5448922b7d6acdfdd1db96e448a\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\matte\.gradle\caches\transforms-2\files-2.1\5264e5448922b7d6acdfdd1db96e448a\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\matte\.gradle\caches\transforms-2\files-2.1\83bb775642e85ded920d45c98c4ba47a\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\matte\.gradle\caches\transforms-2\files-2.1\83bb775642e85ded920d45c98c4ba47a\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\matte\.gradle\caches\transforms-2\files-2.1\41c6245d9480f7755bfecedd6de79fd7\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\matte\.gradle\caches\transforms-2\files-2.1\41c6245d9480f7755bfecedd6de79fd7\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\matte\.gradle\caches\transforms-2\files-2.1\278bb55902c0cb301729800709bccdd6\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\matte\.gradle\caches\transforms-2\files-2.1\278bb55902c0cb301729800709bccdd6\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\matte\.gradle\caches\transforms-2\files-2.1\f4e4ddf5d7fad2556068335dd9d034f3\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\matte\.gradle\caches\transforms-2\files-2.1\f4e4ddf5d7fad2556068335dd9d034f3\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\matte\.gradle\caches\transforms-2\files-2.1\7638b7f6a5f5f32c18213ac6b7e1e1d8\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\matte\.gradle\caches\transforms-2\files-2.1\7638b7f6a5f5f32c18213ac6b7e1e1d8\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\matte\.gradle\caches\transforms-2\files-2.1\04193e4adbd6ab2b25601e480e412512\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\matte\.gradle\caches\transforms-2\files-2.1\04193e4adbd6ab2b25601e480e412512\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\matte\.gradle\caches\transforms-2\files-2.1\5db7b9078964e2bf4080b383d587ddf0\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\matte\.gradle\caches\transforms-2\files-2.1\5db7b9078964e2bf4080b383d587ddf0\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\matte\.gradle\caches\transforms-2\files-2.1\7da184a3de07e598f9ba2487bf683ea2\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\matte\.gradle\caches\transforms-2\files-2.1\7da184a3de07e598f9ba2487bf683ea2\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\matte\.gradle\caches\transforms-2\files-2.1\4e70e2bc268155a48da1800749e38468\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\matte\.gradle\caches\transforms-2\files-2.1\4e70e2bc268155a48da1800749e38468\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\matte\Desktop\ThereBoardProject\simulink_precompiled_files\ThereBoard_ert_rtw\ThereBoard\src\main\AndroidManifest.xml:6:55-87
+	android:icon
+		ADDED from C:\Users\matte\Desktop\ThereBoardProject\simulink_precompiled_files\ThereBoard_ert_rtw\ThereBoard\src\main\AndroidManifest.xml:6:18-54
+	android:theme
+		ADDED from C:\Users\matte\Desktop\ThereBoardProject\simulink_precompiled_files\ThereBoard_ert_rtw\ThereBoard\src\main\AndroidManifest.xml:7:17-50
+activity#com.example.ThereBoard.ThereBoard
+ADDED from C:\Users\matte\Desktop\ThereBoardProject\simulink_precompiled_files\ThereBoard_ert_rtw\ThereBoard\src\main\AndroidManifest.xml:8:9-14:20
+	android:label
+		ADDED from C:\Users\matte\Desktop\ThereBoardProject\simulink_precompiled_files\ThereBoard_ert_rtw\ThereBoard\src\main\AndroidManifest.xml:8:19-51
+	android:configChanges
+		ADDED from C:\Users\matte\Desktop\ThereBoardProject\simulink_precompiled_files\ThereBoard_ert_rtw\ThereBoard\src\main\AndroidManifest.xml:9:63-109
+	android:theme
+		ADDED from C:\Users\matte\Desktop\ThereBoardProject\simulink_precompiled_files\ThereBoard_ert_rtw\ThereBoard\src\main\AndroidManifest.xml:9:17-62
+	android:name
+		ADDED from C:\Users\matte\Desktop\ThereBoardProject\simulink_precompiled_files\ThereBoard_ert_rtw\ThereBoard\src\main\AndroidManifest.xml:8:52-77
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\matte\Desktop\ThereBoardProject\simulink_precompiled_files\ThereBoard_ert_rtw\ThereBoard\src\main\AndroidManifest.xml:10:13-13:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\matte\Desktop\ThereBoardProject\simulink_precompiled_files\ThereBoard_ert_rtw\ThereBoard\src\main\AndroidManifest.xml:11:17-68
+	android:name
+		ADDED from C:\Users\matte\Desktop\ThereBoardProject\simulink_precompiled_files\ThereBoard_ert_rtw\ThereBoard\src\main\AndroidManifest.xml:11:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\matte\Desktop\ThereBoardProject\simulink_precompiled_files\ThereBoard_ert_rtw\ThereBoard\src\main\AndroidManifest.xml:12:17-76
+	android:name
+		ADDED from C:\Users\matte\Desktop\ThereBoardProject\simulink_precompiled_files\ThereBoard_ert_rtw\ThereBoard\src\main\AndroidManifest.xml:12:27-74
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\matte\Desktop\ThereBoardProject\simulink_precompiled_files\ThereBoard_ert_rtw\ThereBoard\src\main\AndroidManifest.xml:16:4-74
+	android:name
+		ADDED from C:\Users\matte\Desktop\ThereBoardProject\simulink_precompiled_files\ThereBoard_ert_rtw\ThereBoard\src\main\AndroidManifest.xml:16:21-72
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from C:\Users\matte\Desktop\ThereBoardProject\simulink_precompiled_files\ThereBoard_ert_rtw\ThereBoard\src\main\AndroidManifest.xml:17:1-75
+	android:name
+		ADDED from C:\Users\matte\Desktop\ThereBoardProject\simulink_precompiled_files\ThereBoard_ert_rtw\ThereBoard\src\main\AndroidManifest.xml:17:18-73
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\matte\Desktop\ThereBoardProject\simulink_precompiled_files\ThereBoard_ert_rtw\ThereBoard\src\main\AndroidManifest.xml:18:1-66
+	android:name
+		ADDED from C:\Users\matte\Desktop\ThereBoardProject\simulink_precompiled_files\ThereBoard_ert_rtw\ThereBoard\src\main\AndroidManifest.xml:18:18-64
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\matte\Desktop\ThereBoardProject\simulink_precompiled_files\ThereBoard_ert_rtw\ThereBoard\src\main\AndroidManifest.xml:19:1-62
+	android:name
+		ADDED from C:\Users\matte\Desktop\ThereBoardProject\simulink_precompiled_files\ThereBoard_ert_rtw\ThereBoard\src\main\AndroidManifest.xml:19:18-60
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\matte\Desktop\ThereBoardProject\simulink_precompiled_files\ThereBoard_ert_rtw\ThereBoard\src\main\AndroidManifest.xml:20:1-74
+	android:name
+		ADDED from C:\Users\matte\Desktop\ThereBoardProject\simulink_precompiled_files\ThereBoard_ert_rtw\ThereBoard\src\main\AndroidManifest.xml:20:18-72
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\matte\Desktop\ThereBoardProject\simulink_precompiled_files\ThereBoard_ert_rtw\ThereBoard\src\main\AndroidManifest.xml:21:1-63
+	android:name
+		ADDED from C:\Users\matte\Desktop\ThereBoardProject\simulink_precompiled_files\ThereBoard_ert_rtw\ThereBoard\src\main\AndroidManifest.xml:21:18-61
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\matte\Desktop\ThereBoardProject\simulink_precompiled_files\ThereBoard_ert_rtw\ThereBoard\src\main\AndroidManifest.xml:22:1-69
+	android:name
+		ADDED from C:\Users\matte\Desktop\ThereBoardProject\simulink_precompiled_files\ThereBoard_ert_rtw\ThereBoard\src\main\AndroidManifest.xml:22:18-67
+uses-sdk
+INJECTED from C:\Users\matte\Desktop\ThereBoardProject\simulink_precompiled_files\ThereBoard_ert_rtw\ThereBoard\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\matte\Desktop\ThereBoardProject\simulink_precompiled_files\ThereBoard_ert_rtw\ThereBoard\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\matte\.gradle\caches\transforms-2\files-2.1\0e25de7ddc61fc2001dd2b265154f5dd\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\matte\.gradle\caches\transforms-2\files-2.1\0e25de7ddc61fc2001dd2b265154f5dd\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\matte\.gradle\caches\transforms-2\files-2.1\5264e5448922b7d6acdfdd1db96e448a\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\matte\.gradle\caches\transforms-2\files-2.1\5264e5448922b7d6acdfdd1db96e448a\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\matte\.gradle\caches\transforms-2\files-2.1\83bb775642e85ded920d45c98c4ba47a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\matte\.gradle\caches\transforms-2\files-2.1\83bb775642e85ded920d45c98c4ba47a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\matte\.gradle\caches\transforms-2\files-2.1\41c6245d9480f7755bfecedd6de79fd7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\matte\.gradle\caches\transforms-2\files-2.1\41c6245d9480f7755bfecedd6de79fd7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\matte\.gradle\caches\transforms-2\files-2.1\0d4ab687470e9be730ee6f9186b049ce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\matte\.gradle\caches\transforms-2\files-2.1\0d4ab687470e9be730ee6f9186b049ce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\matte\.gradle\caches\transforms-2\files-2.1\278bb55902c0cb301729800709bccdd6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\matte\.gradle\caches\transforms-2\files-2.1\278bb55902c0cb301729800709bccdd6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\matte\.gradle\caches\transforms-2\files-2.1\f4e4ddf5d7fad2556068335dd9d034f3\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\matte\.gradle\caches\transforms-2\files-2.1\f4e4ddf5d7fad2556068335dd9d034f3\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\matte\.gradle\caches\transforms-2\files-2.1\7638b7f6a5f5f32c18213ac6b7e1e1d8\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\matte\.gradle\caches\transforms-2\files-2.1\7638b7f6a5f5f32c18213ac6b7e1e1d8\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\matte\.gradle\caches\transforms-2\files-2.1\04193e4adbd6ab2b25601e480e412512\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\matte\.gradle\caches\transforms-2\files-2.1\04193e4adbd6ab2b25601e480e412512\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\matte\.gradle\caches\transforms-2\files-2.1\5db7b9078964e2bf4080b383d587ddf0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\matte\.gradle\caches\transforms-2\files-2.1\5db7b9078964e2bf4080b383d587ddf0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\matte\.gradle\caches\transforms-2\files-2.1\7da184a3de07e598f9ba2487bf683ea2\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\matte\.gradle\caches\transforms-2\files-2.1\7da184a3de07e598f9ba2487bf683ea2\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\matte\.gradle\caches\transforms-2\files-2.1\4e70e2bc268155a48da1800749e38468\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\matte\.gradle\caches\transforms-2\files-2.1\4e70e2bc268155a48da1800749e38468\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\Users\matte\Desktop\ThereBoardProject\simulink_precompiled_files\ThereBoard_ert_rtw\ThereBoard\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\matte\.gradle\caches\transforms-2\files-2.1\0e25de7ddc61fc2001dd2b265154f5dd\AndroidManifest.xml:23:9-59
+	android:minSdkVersion
+		INJECTED from C:\Users\matte\Desktop\ThereBoardProject\simulink_precompiled_files\ThereBoard_ert_rtw\ThereBoard\src\main\AndroidManifest.xml
+		ADDED from C:\Users\matte\Desktop\ThereBoardProject\simulink_precompiled_files\ThereBoard_ert_rtw\ThereBoard\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\matte\Desktop\ThereBoardProject\simulink_precompiled_files\ThereBoard_ert_rtw\ThereBoard\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\matte\.gradle\caches\transforms-2\files-2.1\0e25de7ddc61fc2001dd2b265154f5dd\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\matte\.gradle\caches\transforms-2\files-2.1\5264e5448922b7d6acdfdd1db96e448a\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\matte\.gradle\caches\transforms-2\files-2.1\5264e5448922b7d6acdfdd1db96e448a\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\matte\.gradle\caches\transforms-2\files-2.1\83bb775642e85ded920d45c98c4ba47a\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\matte\.gradle\caches\transforms-2\files-2.1\83bb775642e85ded920d45c98c4ba47a\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\matte\.gradle\caches\transforms-2\files-2.1\41c6245d9480f7755bfecedd6de79fd7\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\matte\.gradle\caches\transforms-2\files-2.1\41c6245d9480f7755bfecedd6de79fd7\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\matte\.gradle\caches\transforms-2\files-2.1\0d4ab687470e9be730ee6f9186b049ce\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\matte\.gradle\caches\transforms-2\files-2.1\0d4ab687470e9be730ee6f9186b049ce\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\matte\.gradle\caches\transforms-2\files-2.1\278bb55902c0cb301729800709bccdd6\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\matte\.gradle\caches\transforms-2\files-2.1\278bb55902c0cb301729800709bccdd6\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\matte\.gradle\caches\transforms-2\files-2.1\f4e4ddf5d7fad2556068335dd9d034f3\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\matte\.gradle\caches\transforms-2\files-2.1\f4e4ddf5d7fad2556068335dd9d034f3\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\matte\.gradle\caches\transforms-2\files-2.1\7638b7f6a5f5f32c18213ac6b7e1e1d8\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\matte\.gradle\caches\transforms-2\files-2.1\7638b7f6a5f5f32c18213ac6b7e1e1d8\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\matte\.gradle\caches\transforms-2\files-2.1\04193e4adbd6ab2b25601e480e412512\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\matte\.gradle\caches\transforms-2\files-2.1\04193e4adbd6ab2b25601e480e412512\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\matte\.gradle\caches\transforms-2\files-2.1\5db7b9078964e2bf4080b383d587ddf0\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\matte\.gradle\caches\transforms-2\files-2.1\5db7b9078964e2bf4080b383d587ddf0\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\matte\.gradle\caches\transforms-2\files-2.1\7da184a3de07e598f9ba2487bf683ea2\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\matte\.gradle\caches\transforms-2\files-2.1\7da184a3de07e598f9ba2487bf683ea2\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\matte\.gradle\caches\transforms-2\files-2.1\4e70e2bc268155a48da1800749e38468\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\matte\.gradle\caches\transforms-2\files-2.1\4e70e2bc268155a48da1800749e38468\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\matte\.gradle\caches\transforms-2\files-2.1\0e25de7ddc61fc2001dd2b265154f5dd\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\matte\.gradle\caches\transforms-2\files-2.1\0e25de7ddc61fc2001dd2b265154f5dd\AndroidManifest.xml:26:9-47

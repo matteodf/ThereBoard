@@ -1,0 +1,4 @@
+#Thu Jan 16 13:09:15 CET 2020
+base.0=C\:\\Users\\matte\\Desktop\\ThereBoardProject\\simulink_precompiled_files\\ThereBoard_ert_rtw\\ThereBoard\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex
